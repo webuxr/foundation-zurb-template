@@ -33,7 +33,7 @@ git clone https://github.com/zurb/Infusionsoft.git
 Then open the folder in your command line, and install the needed dependencies:
 
 ```bash
-cd infusionsoft
+cd projectName
 yarn
 ```
 
